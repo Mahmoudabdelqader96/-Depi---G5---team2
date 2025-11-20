@@ -1,8 +1,12 @@
 📄 HR Data Analytics Project Documentation
 
-Project Name: HR Data analytics project Tool Used: Using Power BI Date: November 1, 2025 Instructor: Mahmoud Serag 
+Project Name: HR Data Analytics Project 
 
+Tool Used: Using Power BI 
 
+Date: November 1, 2025 
+
+Instructor: Mahmoud Serag 
 
 
 👥 Team Members
@@ -14,6 +18,7 @@ Mahmoud Abdelkader
 Sandra 
 
 Taher
+
 
 🎯 1. Project Planning & Management
 
@@ -71,41 +76,41 @@ Project report (full documentation)
 Final presentation 
 
 1.4 KPIs (Key Performance Indicators)
-Category	Key Performance Indicators (KPIs)
-1. Attrition	
-Overall Attrition Rate , Attrition Rate by Salary Range , Retention Percentage (Employees Who Stayed) 
 
+Category	Key Performance Indicators (KPIs)
+
+1. Attrition	
+Overall Attrition Rate, Attrition Rate by Salary Range, Retention Percentage (Employees Who Stayed) 
 
 
 2. Performance	
-Average Self-Rating per Department , Average Manager Rating per Department , Self vs Manager Rating Gap 
+Average Self-Rating per Department, Average Manager Rating per Department, Self vs Manager Rating Gap 
 
 
 
 3. Compensation	
-Average Salary per Education Field , Total Salary per Job Role 
+Average Salary per Education Field, Total Salary per Job Role 
 
 
 4. Demographics	
-Employee Count by Marital Status , Gender Distribution 
+Employee Count by Marital Status, Gender Distribution 
 
 
-5. Work Conditions	
+5. Work Conditions
+   
 Average Distance From Home per Department
 
 ⚙️ 2. Requirements Gathering
+
 2.1 Stakeholder Analysis
-   StakeholderRoleNeedsHR ManagerDecision makerHigh-level insights on attrition, salary trends, overtime, and employee demographics39.HR SpecialistsDaily usersDetailed filtering options, ability to track individual departments or employee groups40.Top Management (CEO/Directors)Strategic oversightSummary metrics, trends over time, and key workforce challenges41.Data Analyst / BI DeveloperSystem creatorClean, structured dataset and clear functional requirements42.
+   Stakeholder Role Needs HR Manager Decision maker High-level insights on attrition, salary trends, overtime, and employee demographics39.HR Specialists, Daily users, Detailed filtering options, ability to track individual departments or employee groups40. 
+   Top Management (CEO/Directors): Strategic oversight, summary metrics, trends over time, and key workforce challenges41.Data Analyst / BI Developer, System creator, Clean, structured dataset and clear functional requirements42.
    2.2 Functionalities & Features
 
-Data & Visualization: Display KPIs , provide interactive charts , include slicers for department, age group, salary slab, job role, etc. , and allow drill-down/cross-filtering.
+Data & Visualization: Display KPIs, provide interactive charts, include slicers for department, age group, salary slab, job role, etc., and allow drill-down/cross-filtering.
 
 
-
-
-
-
-Data Processing: Clean and transform raw HR data , implement DAX measures for calculated fields , and build a star schema data model.
+Data Processing: Clean and transform raw HR data, implement DAX measures for calculated fields, and build a star schema data model.
 
 
 
@@ -113,6 +118,7 @@ Data Processing: Clean and transform raw HR data , implement DAX measures for ca
 Navigation: Provide multi-page dashboard navigation.
 
 💡 3. HR Dashboard Insights
+
 Page	Purpose	Key Insights	Recommendations
 1. Employee Overview	
 Show employee distribution by travel, departments, gender, marital status, overtime, and total salary.
@@ -143,6 +149,7 @@ Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (
 Increase salaries for the lowest ranges; Improve work conditions in Sales to reduce turnover; Conduct structured exit interviews.
 
 🛠️ 4. Implementation (Execution)
+
 4.2 Environment & Tools Used
 
 Power BI Desktop: For data cleaning, modeling, and dashboard creation.
@@ -162,7 +169,7 @@ Removal of duplicates, incorrect values, and missing fields.
 
 Standardizing data types (dates, categorical values, IDs).
 
-Creating new calculated fields such as attrition rate.
+Creating new calculated fields, such as attrition rate.
 
 4.4 Data Modeling
 Establishing relationships between fact and dimension tables.
@@ -178,6 +185,7 @@ Attrition count
 Attrition rate
 
 📋 5. Final Presentation & Reports
+
 5.2 Technical Documentation
 
 Data Source: HR dataset (CSV/Excel).
