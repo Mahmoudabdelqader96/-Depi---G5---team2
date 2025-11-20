@@ -90,6 +90,7 @@ Employee Count by Marital Status , Gender Distribution
 
 5. Work Conditions	
 Average Distance From Home per Department
+
 ⚙️ 2. Requirements Gathering
 2.1 Stakeholder Analysis
    StakeholderRoleNeedsHR ManagerDecision makerHigh-level insights on attrition, salary trends, overtime, and employee demographics39.HR SpecialistsDaily usersDetailed filtering options, ability to track individual departments or employee groups40.Top Management (CEO/Directors)Strategic oversightSummary metrics, trends over time, and key workforce challenges41.Data Analyst / BI DeveloperSystem creatorClean, structured dataset and clear functional requirements42.
@@ -108,6 +109,7 @@ Data Processing: Clean and transform raw HR data , implement DAX measures for ca
 
 
 Navigation: Provide multi-page dashboard navigation.
+
 💡 3. HR Dashboard Insights
 Page	Purpose	Key Insights	Recommendations
 1. Employee Overview	
@@ -137,6 +139,7 @@ Analyze attrition by department, salary range, and employee status.
 Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (20%); Sales has the highest attrition rate (21%).
 
 Increase salaries for the lowest ranges; Improve work conditions in Sales to reduce turnover; Conduct structured exit interviews.
+
 🛠️ 4. Implementation (Execution)
 4.2 Environment & Tools Used
 
@@ -171,6 +174,7 @@ Employee count
 Attrition count 
 
 Attrition rate
+
 📋 5. Final Presentation & Reports
 5.2 Technical Documentation
 
