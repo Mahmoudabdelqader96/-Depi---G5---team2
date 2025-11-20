@@ -15,6 +15,8 @@ Sandra
 
 Taher
 
+🎯 1. Project Planning & Management
+
 1.1 Project Proposal
 
 Project Purpose: The goal is to develop an interactive HR analytics dashboard that provides clear, data-driven insights into employee demographics, salary distribution, performance ratings, education levels, and attrition trends.
