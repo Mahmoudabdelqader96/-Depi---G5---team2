@@ -229,19 +229,16 @@ Navigate through multiple dashboard pages to explore attrition, employee demogra
 
 Use export options if the user needs PDF or image versions of the charts.
 
-<img width="775" height="432" alt="Screenshot 2025-11-23 221646" src="https://github.com/user-attachments/assets/7d6248f7-0166-42b1-bf63-c57b7814533c" />
-
-<img width="775" height="432" alt="Screenshot 2025-11-23 221646" src="https://github.com/user-attachments/assets/9c6a7dc4-6a88-4883-94fc-8a6c6c2a48e4" />
-
-![Uploading Screenshot 2025-11-23 221731.png…]()
-
-
-
-
-
 6. Attrition Overview	
 Analyze attrition by department, salary range, and employee status.
 
 Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (20%); Sales has the highest attrition rate (21%).
 
 Increase salaries for the lowest ranges; Improve work conditions in Sales to reduce turnover; Conduct structured exit interviews.
+
+<img width="775" height="432" alt="Screenshot 2025-11-23 221646" src="https://github.com/user-attachments/assets/7d6248f7-0166-42b1-bf63-c57b7814533c" />
+
+<img width="775" height="432" alt="Screenshot 2025-11-23 221646" src="https://github.com/user-attachments/assets/9c6a7dc4-6a88-4883-94fc-8a6c6c2a48e4" />
+
+<img width="770" height="426" alt="Screenshot 2025-11-23 221731" src="https://github.com/user-attachments/assets/7a0411c7-64e2-4129-a23a-65a767a090b9" />
+
