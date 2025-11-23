@@ -112,6 +112,7 @@ Data & Visualization: Display KPIs, provide interactive charts, include slicers 
 
 Data Processing: Clean and transform raw HR data, implement DAX measures for calculated fields, and build a star schema data model.
 
+<img width="1293" height="725" alt="Screenshot 2025-11-15 195130" src="https://github.com/user-attachments/assets/942510d2-9a82-47f4-b81c-9f60c3760a07" />
 
 
 
