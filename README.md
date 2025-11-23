@@ -1,5 +1,6 @@
 📄 HR Data Analytics Project Documentation
 
+
 <img width="462" height="138" alt="image" src="https://github.com/user-attachments/assets/b3b66b90-5813-4812-b272-701acff4bd63" />
 
 
@@ -9,18 +10,13 @@ Tool Used: Using Power BI
 
 Date: November 1, 2025 
 
-Instructor: Mahmoud Serag 
+Instructor: Eng. Mahmoud Serag 
 
 
 👥 Team Members
 
-Maged 
+<img width="933" height="519" alt="image" src="https://github.com/user-attachments/assets/74a2f77b-3b4f-4504-981a-a115a9d2195f" />
 
-Mahmoud Abdelkader 
-
-Sandra 
-
-Taher
 
 
 🎯 1. Project Planning & Management
@@ -38,6 +34,7 @@ Identify patterns related to employee performance, turnover, and salary gaps.
 Enhance the HR team’s ability to track changes over time.
 
 Improve workforce planning and retention strategies.
+
 
 Project Scope:
 
@@ -120,33 +117,38 @@ Navigation: Provide multi-page dashboard navigation.
 💡 3. HR Dashboard Insights
 
 Page	Purpose	Key Insights	Recommendations
-1. Employee Overview	
+1. Employee Overview
+
+   <img width="1293" height="725" alt="Screenshot 2025-11-15 195130" src="https://github.com/user-attachments/assets/e0bf79a9-0789-4527-9faf-caf57ab2a8c3" />
+   
+
 Show employee distribution by travel, departments, gender, marital status, overtime, and total salary.
 
 Technology has the highest employee count; Married employees are the largest group (624); 72% do not work overtime.
 
 Evaluate workload for departments with overtime levels; Enhance support programs for married employees.
 
-2. Salary & Department Analytics	
+2. Salary & Department Analytics
+
+<img width="1299" height="727" alt="Screenshot 2025-11-15 195145" src="https://github.com/user-attachments/assets/892c4bd6-8de4-41a6-b5c6-b738db49442e" />
+
 Analyze salaries by gender, job role, yearly trend, and department.
 
 Highest paying roles: Sales Executive (38M), Engineering Manager (21M); Salaries increased steadily toward 2020–2022.
 
 Improve salary competitiveness in HR; Maintain investment in high-value roles such as Sales Executive.
 
-3. Distance, Ratings & Allowances	
+3. Distance, Ratings & Allowances
+
+<img width="1286" height="721" alt="Screenshot 2025-11-15 195200" src="https://github.com/user-attachments/assets/b5d85a6d-f2ef-4c85-96c7-39c4c78a3583" />
+
+    
 Show distance from home, employee and manager ratings, and transportation allowances.
 
 HR employees live closest to work (21.7 KM); HR shows the biggest gap between self-rating and manager-rating.
 
 Investigate rating gaps to reduce bias; Strengthen performance evaluation policies.
 
-6. Attrition Overview	
-Analyze attrition by department, salary range, and employee status.
-
-Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (20%); Sales has the highest attrition rate (21%).
-
-Increase salaries for the lowest ranges; Improve work conditions in Sales to reduce turnover; Conduct structured exit interviews.
 
 🛠️ 4. Implementation (Execution)
 
@@ -165,6 +167,7 @@ Original Data Source: Excel / CSV Files (HR dataset).
 
 
 4.3 Data Preparation & Cleaning
+
 Removal of duplicates, incorrect values, and missing fields.
 
 Standardizing data types (dates, categorical values, IDs).
@@ -175,6 +178,9 @@ Creating new calculated fields, such as attrition rate.
 Establishing relationships between fact and dimension tables.
 
 Structuring the data model into a star schema for efficiency.
+
+<img width="1910" height="862" alt="Screenshot 2025-11-15 170847" src="https://github.com/user-attachments/assets/edaf6c50-029d-4478-a666-ac28f42b16d7" />
+
 
 Building DAX measures to calculate KPIs, including:
 
@@ -187,6 +193,9 @@ Attrition rate
 📋 5. Final Presentation & Reports
 
 5.2 Technical Documentation
+
+<img width="506" height="623" alt="Screenshot 2025-11-23 221137" src="https://github.com/user-attachments/assets/dad40db1-9206-4b46-b9e8-581aedc08cb0" />
+
 
 Data Source: HR dataset (CSV/Excel).
 
@@ -219,3 +228,10 @@ Hover over charts for detailed tooltips and insights.
 Navigate through multiple dashboard pages to explore attrition, employee demographics, and KPIs.
 
 Use export options if the user needs PDF or image versions of the charts.
+
+6. Attrition Overview	
+Analyze attrition by department, salary range, and employee status.
+
+Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (20%); Sales has the highest attrition rate (21%).
+
+Increase salaries for the lowest ranges; Improve work conditions in Sales to reduce turnover; Conduct structured exit interviews.
