@@ -1,5 +1,3 @@
-## <img width="462" height="138" alt="image" src="https://github.com/user-attachments/assets/b3b66b90-5813-4812-b272-701acff4bd63" />
-
 ## 📄 HR Data Analytics Project Documentation
 
 Project Name: HR Data Analytics Project 
