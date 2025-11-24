@@ -1,4 +1,4 @@
-## 📄 HR Data Analytics Project Documentation
+# 📄 HR Data Analytics Project Documentation
 
 Project Name: HR Data Analytics Project 
 
@@ -9,15 +9,15 @@ Date: November 1, 2025
 Instructor: Eng. Mahmoud Serag 
 
 
-## 👥 Team Members
+# 👥 Team Members
 
 <img width="933" height="519" alt="image" src="https://github.com/user-attachments/assets/74a2f77b-3b4f-4504-981a-a115a9d2195f" />
 
 
 
-## 🎯 1. Project Planning & Management
+# 🎯 1. Project Planning & Management
 
-# 1.1 Project Proposal
+## 1.1 Project Proposal
 
 Project Purpose: The goal is to develop an interactive HR analytics dashboard that provides clear, data-driven insights into employee demographics, salary distribution, performance ratings, education levels, and attrition trends.
 
@@ -40,7 +40,7 @@ Creating interactive visualizations using Power BI.
 
 Delivering insights, recommendations, and documentation.
 
-1.2 Project Plan (Timeline - Gantt Chart Described Textually)
+## 1.2 Project Plan (Timeline - Gantt Chart Described Textually)
 Phase	Tasks	Duration
 Phase 1	Requirements Gathering (Understanding HR needs, identifying KPIs)	
 Week 1 
@@ -60,10 +60,9 @@ Week 6
 Phase 6	Delivery & Presentation (Final dashboard presentation)	
 Week 7
 Key Deliverables:
-
 Clean HR dataset 
 
-Fully interactive Power BI dashboard 
+## 1.3Fully interactive Power BI dashboard 
 
 Insights document 
 
@@ -71,7 +70,7 @@ Project report (full documentation)
 
 Final presentation 
 
-1.4 KPIs (Key Performance Indicators)
+## 1.4 KPIs (Key Performance Indicators)
 
 Category	Key Performance Indicators (KPIs)
 
@@ -81,7 +80,6 @@ Overall Attrition Rate, Attrition Rate by Salary Range, Retention Percentage (Em
 
 2. Performance	
 Average Self-Rating per Department, Average Manager Rating per Department, Self vs Manager Rating Gap 
-
 
 
 3. Compensation	
@@ -96,12 +94,12 @@ Employee Count by Marital Status, Gender Distribution
    
 Average Distance From Home per Department
 
-## ⚙️ 2. Requirements Gathering
+# ⚙️ 2. Requirements Gathering
 
-2.1 Stakeholder Analysis
+## 2.1 Stakeholder Analysis
    Stakeholder Role Needs HR Manager Decision maker High-level insights on attrition, salary trends, overtime, and employee demographics39.HR Specialists, Daily users, Detailed filtering options, ability to track individual departments or employee groups40. 
    Top Management (CEO/Directors): Strategic oversight, summary metrics, trends over time, and key workforce challenges41.Data Analyst / BI Developer, System creator, Clean, structured dataset and clear functional requirements42.
-   2.2 Functionalities & Features
+## 2.2 Functionalities & Features
 
 Data & Visualization: Display KPIs, provide interactive charts, include slicers for department, age group, salary slab, job role, etc., and allow drill-down/cross-filtering.
 
@@ -110,10 +108,10 @@ Data Processing: Clean and transform raw HR data, implement DAX measures for cal
 
 Navigation: Provide multi-page dashboard navigation.
 
-## 💡 3. HR Dashboard Insights
+# 💡 3. HR Dashboard Insights
 
 Page	Purpose	Key Insights	Recommendations
-1. Employee Overview
+## 1. Employee Overview
 
    <img width="1293" height="725" alt="Screenshot 2025-11-15 195130" src="https://github.com/user-attachments/assets/e0bf79a9-0789-4527-9faf-caf57ab2a8c3" />
    
@@ -124,7 +122,7 @@ Technology has the highest employee count; Married employees are the largest gro
 
 Evaluate workload for departments with overtime levels; Enhance support programs for married employees.
 
-2. Salary & Department Analytics
+## 2. Salary & Department Analytics
 
 <img width="1299" height="727" alt="Screenshot 2025-11-15 195145" src="https://github.com/user-attachments/assets/892c4bd6-8de4-41a6-b5c6-b738db49442e" />
 
@@ -134,7 +132,7 @@ Highest paying roles: Sales Executive (38M), Engineering Manager (21M); Salaries
 
 Improve salary competitiveness in HR; Maintain investment in high-value roles such as Sales Executive.
 
-3. Distance, Ratings & Allowances
+## 3. Distance, Ratings & Allowances
 
 <img width="1286" height="721" alt="Screenshot 2025-11-15 195200" src="https://github.com/user-attachments/assets/b5d85a6d-f2ef-4c85-96c7-39c4c78a3583" />
 
@@ -146,9 +144,9 @@ HR employees live closest to work (21.7 KM); HR shows the biggest gap between se
 Investigate rating gaps to reduce bias; Strengthen performance evaluation policies.
 
 
-## 🛠️ 4. Implementation (Execution)
+# 🛠️ 4. Implementation (Execution)
 
-4.2 Environment & Tools Used
+## 4.1 Environment & Tools Used
 
 Power BI Desktop: For data cleaning, modeling, and dashboard creation.
 
@@ -162,7 +160,7 @@ DAX (Data Analysis Expressions): Creating measures and calculated columns.
 Original Data Source: Excel / CSV Files (HR dataset).
 
 
-4.3 Data Preparation & Cleaning
+## 4.2 Data Preparation & Cleaning
 
 Removal of duplicates, incorrect values, and missing fields.
 
@@ -170,7 +168,7 @@ Standardizing data types (dates, categorical values, IDs).
 
 Creating new calculated fields, such as attrition rate.
 
-4.4 Data Modeling
+## 4.3 Data Modeling
 Establishing relationships between fact and dimension tables.
 
 Structuring the data model into a star schema for efficiency.
@@ -186,11 +184,11 @@ Attrition count
 
 Attrition rate
 
-## 📋 5. Final Presentation & Reports
+# 📋 5. Final Presentation & Reports
 
-5.2 Technical Documentation
+## 5.1 Technical Documentation
 
-## <img width="506" height="623" alt="Screenshot 2025-11-23 221137" src="https://github.com/user-attachments/assets/dad40db1-9206-4b46-b9e8-581aedc08cb0" />
+<img width="506" height="623" alt="Screenshot 2025-11-23 221137" src="https://github.com/user-attachments/assets/dad40db1-9206-4b46-b9e8-581aedc08cb0" />
 
 
 Data Source: HR dataset (CSV/Excel).
@@ -214,7 +212,7 @@ Fact Table: Employee records including attrition status, performance, salary, et
 
 API Documentation: No external APIs were integrated into this project. All data was processed locally within Power BI.
 
-5.1 User Manual (How to Use the Dashboard)
+## 5.2 User Manual (How to Use the Dashboard)
 Use the slicers on the left panel to filter the data by department, age, salary slab, or job role.
 
 
@@ -225,7 +223,7 @@ Navigate through multiple dashboard pages to explore attrition, employee demogra
 
 Use export options if the user needs PDF or image versions of the charts.
 
-## 6. Attrition Overview	
+# 6. Attrition Overview	
 Analyze attrition by department, salary range, and employee status.
 
 Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (20%); Sales has the highest attrition rate (21%).
