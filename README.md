@@ -62,7 +62,7 @@ Week 7
 Key Deliverables:
 Clean HR dataset 
 
-## 1.3Fully interactive Power BI dashboard 
+## 1.3 Fully interactive Power BI dashboard 
 
 Insights document 
 
