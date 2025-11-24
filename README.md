@@ -190,7 +190,7 @@ Attrition rate
 
 5.2 Technical Documentation
 
-                                    <img width="506" height="623" alt="Screenshot 2025-11-23 221137" src="https://github.com/user-attachments/assets/dad40db1-9206-4b46-b9e8-581aedc08cb0" />
+## <img width="506" height="623" alt="Screenshot 2025-11-23 221137" src="https://github.com/user-attachments/assets/dad40db1-9206-4b46-b9e8-581aedc08cb0" />
 
 
 Data Source: HR dataset (CSV/Excel).
