@@ -111,7 +111,7 @@ Navigation: Provide multi-page dashboard navigation.
 # 💡 3. HR Dashboard Insights
 
 Page	Purpose	Key Insights	Recommendations
-## 1. Employee Overview
+## 1.3 Employee Overview
 
    <img width="1293" height="725" alt="Screenshot 2025-11-15 195130" src="https://github.com/user-attachments/assets/e0bf79a9-0789-4527-9faf-caf57ab2a8c3" />
    
@@ -122,7 +122,7 @@ Technology has the highest employee count; Married employees are the largest gro
 
 Evaluate workload for departments with overtime levels; Enhance support programs for married employees.
 
-## 2. Salary & Department Analytics
+## 2.3 Salary & Department Analytics
 
 <img width="1299" height="727" alt="Screenshot 2025-11-15 195145" src="https://github.com/user-attachments/assets/892c4bd6-8de4-41a6-b5c6-b738db49442e" />
 
@@ -132,7 +132,7 @@ Highest paying roles: Sales Executive (38M), Engineering Manager (21M); Salaries
 
 Improve salary competitiveness in HR; Maintain investment in high-value roles such as Sales Executive.
 
-## 3. Distance, Ratings & Allowances
+## 3.3 Distance, Ratings & Allowances
 
 <img width="1286" height="721" alt="Screenshot 2025-11-15 195200" src="https://github.com/user-attachments/assets/b5d85a6d-f2ef-4c85-96c7-39c4c78a3583" />
 
