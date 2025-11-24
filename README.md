@@ -1,4 +1,4 @@
-# 📄 HR Data Analytics Project Documentation
+# 📄 HR Data Analytics Project
 
 Project Name: HR Data Analytics Project 
 
