@@ -1,7 +1,7 @@
-📄 HR Data Analytics Project Documentation
+## 📄 HR Data Analytics Project Documentation
 
 
-<img width="462" height="138" alt="image" src="https://github.com/user-attachments/assets/b3b66b90-5813-4812-b272-701acff4bd63" />
+## <img width="462" height="138" alt="image" src="https://github.com/user-attachments/assets/b3b66b90-5813-4812-b272-701acff4bd63" />
 
 
 Project Name: HR Data Analytics Project 
@@ -19,7 +19,7 @@ Instructor: Eng. Mahmoud Serag
 
 
 
-🎯 1. Project Planning & Management
+## 🎯 1. Project Planning & Management
 
 1.1 Project Proposal
 
@@ -100,7 +100,7 @@ Employee Count by Marital Status, Gender Distribution
    
 Average Distance From Home per Department
 
-⚙️ 2. Requirements Gathering
+## ⚙️ 2. Requirements Gathering
 
 2.1 Stakeholder Analysis
    Stakeholder Role Needs HR Manager Decision maker High-level insights on attrition, salary trends, overtime, and employee demographics39.HR Specialists, Daily users, Detailed filtering options, ability to track individual departments or employee groups40. 
@@ -114,7 +114,7 @@ Data Processing: Clean and transform raw HR data, implement DAX measures for cal
 
 Navigation: Provide multi-page dashboard navigation.
 
-💡 3. HR Dashboard Insights
+## 💡 3. HR Dashboard Insights
 
 Page	Purpose	Key Insights	Recommendations
 1. Employee Overview
@@ -150,7 +150,7 @@ HR employees live closest to work (21.7 KM); HR shows the biggest gap between se
 Investigate rating gaps to reduce bias; Strengthen performance evaluation policies.
 
 
-🛠️ 4. Implementation (Execution)
+## 🛠️ 4. Implementation (Execution)
 
 4.2 Environment & Tools Used
 
@@ -190,7 +190,7 @@ Attrition count
 
 Attrition rate
 
-📋 5. Final Presentation & Reports
+## 📋 5. Final Presentation & Reports
 
 5.2 Technical Documentation
 
@@ -229,7 +229,7 @@ Navigate through multiple dashboard pages to explore attrition, employee demogra
 
 Use export options if the user needs PDF or image versions of the charts.
 
-6. Attrition Overview	
+## 6. Attrition Overview	
 Analyze attrition by department, salary range, and employee status.
 
 Attrition Rate = 16%; Lowest salary range (0–100K) has the highest attrition (20%); Sales has the highest attrition rate (21%).
